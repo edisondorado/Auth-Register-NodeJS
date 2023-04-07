@@ -1,6 +1,7 @@
 # Auth-Register-NodeJS
 
 Dependencies:
+
 bcrypt: "^5.1.0",
 express: "^4.18.2",
 express-validator: "^6.15.0",
